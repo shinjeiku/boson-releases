@@ -1,2 +1,2 @@
-# daymark-releases
-Official Windows installer releases for Daymark
+# boson-releases
+Official Windows installer releases for Boson
