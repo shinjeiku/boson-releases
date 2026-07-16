@@ -1,6 +1,7 @@
 # Boson Terms of Use
 
-**Effective Date:** July 16, 2026  
+**Effective Date:** July 16, 2026
+
 **Contact:** soap.official@outlook.com
 
 These Terms of Use govern your access to and use of the Boson desktop and iOS applications and their related cloud synchronization services. By creating an account or using Boson, you agree to these Terms.
