@@ -1,6 +1,7 @@
 # Boson Privacy Policy
 
-**Effective Date:** July 16, 2026  
+**Effective Date:** July 16, 2026
+
 **Contact:** soap.official@outlook.com
 
 This Privacy Policy explains how Boson collects, uses, stores, and protects information when you use the Boson desktop or iOS application and its related cloud synchronization services.
