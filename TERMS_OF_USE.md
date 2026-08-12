@@ -1,6 +1,6 @@
 # Boson Terms of Use
 
-**Effective Date:** August 11, 2026
+**Effective Date:** August 12, 2026
 
 **Contact:** soap.official@outlook.com
 
@@ -8,7 +8,7 @@ These Terms of Use govern your access to and use of the Boson desktop, iOS, and 
 
 ## 1. Operator and Agreement
 
-Boson is operated by Jacob Jennette ("Boson," "we," "us," or "our"). These Terms form an agreement between you and Boson. If you do not agree to them, do not create an account or use Boson.
+Boson is operated by Waylith Solutions LLC ("Boson," "we," "us," or "our"). These Terms form an agreement between you and Boson. If you do not agree to them, do not create an account or use Boson.
 
 ## 2. Eligibility and Accounts
 

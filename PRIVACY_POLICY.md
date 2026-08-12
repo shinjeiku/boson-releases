@@ -1,6 +1,6 @@
 # Boson Privacy Policy
 
-**Effective Date:** August 11, 2026
+**Effective Date:** August 12, 2026
 
 **Contact:** soap.official@outlook.com
 
@@ -8,7 +8,7 @@ This Privacy Policy explains how Boson collects, uses, stores, and protects info
 
 ## 1. Who Operates Boson
 
-Boson is operated by Jacob Jennette ("Boson," "we," "us," or "our"). Questions or privacy requests may be sent to **soap.official@outlook.com**.
+Boson is operated by Waylith Solutions LLC ("Boson," "we," "us," or "our"). Questions or privacy requests may be sent to **soap.official@outlook.com**.
 
 ## 2. Information We Collect
 
