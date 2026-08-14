@@ -1,14 +1,14 @@
 # Boson Privacy Policy
 
-**Effective Date:** August 12, 2026
+**Effective Date:** August 14, 2026
 
-**Contact:** soap.official@outlook.com
+**Contact:** office@waylith.com
 
 This Privacy Policy explains how Boson collects, uses, stores, and protects information when you use the Boson desktop, iOS, or Android application and its related cloud synchronization services.
 
 ## 1. Who Operates Boson
 
-Boson is operated by Waylith Solutions LLC ("Boson," "we," "us," or "our"). Questions or privacy requests may be sent to **soap.official@outlook.com**.
+Boson is operated by Waylith Solutions LLC ("Waylith," "we," "us," or "our"). Questions or privacy requests may be sent to **office@waylith.com**.
 
 ## 2. Information We Collect
 
@@ -107,4 +107,4 @@ Boson is intended for adults managing financial information and is not directed 
 
 We may update this policy as Boson changes. The effective date above identifies the latest version. Material changes will be reflected in the app or on the canonical policy page.
 
-Privacy questions and requests may be sent to **soap.official@outlook.com**.
+Privacy questions and requests may be sent to **office@waylith.com**.
