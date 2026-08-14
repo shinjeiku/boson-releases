@@ -1,14 +1,14 @@
 # Boson Terms of Use
 
-**Effective Date:** August 12, 2026
+**Effective Date:** August 14, 2026
 
-**Contact:** soap.official@outlook.com
+**Contact:** office@waylith.com
 
 These Terms of Use govern your access to and use of the Boson desktop, iOS, and Android applications and their related cloud synchronization services. By creating an account or using Boson, you agree to these Terms.
 
 ## 1. Operator and Agreement
 
-Boson is operated by Waylith Solutions LLC ("Boson," "we," "us," or "our"). These Terms form an agreement between you and Boson. If you do not agree to them, do not create an account or use Boson.
+Boson is operated by Waylith Solutions LLC ("Waylith," "we," "us," or "our"). These Terms form an agreement between you and Waylith. If you do not agree to them, do not create an account or use Boson.
 
 ## 2. Eligibility and Accounts
 
@@ -95,10 +95,10 @@ To the fullest extent permitted by law, Boson is provided "as is" and "as availa
 
 ## 11. Limitation of Liability
 
-To the fullest extent permitted by law, Boson and its operator will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, revenue, goodwill, data, or business opportunity arising from or related to Boson. Where liability cannot be excluded, total liability will not exceed the greater of the amount you paid for Boson during the twelve months before the event giving rise to the claim or 50 U.S. dollars. These limits do not apply where prohibited by law.
+To the fullest extent permitted by law, Boson and Waylith Solutions LLC will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, revenue, goodwill, data, or business opportunity arising from or related to Boson. Where liability cannot be excluded, total liability will not exceed the greater of the amount you paid for Boson during the twelve months before the event giving rise to the claim or 50 U.S. dollars. These limits do not apply where prohibited by law.
 
 ## 12. General Terms and Contact
 
 If any provision is unenforceable, the remaining provisions remain in effect. A failure to enforce a provision is not a waiver. You may not transfer this agreement without our consent; we may transfer it as part of a reorganization, financing, sale, or transfer of Boson. These Terms and the Privacy Policy are the entire agreement concerning the service unless additional written terms apply.
 
-Questions about these Terms may be sent to **soap.official@outlook.com**.
+Questions about these Terms may be sent to **office@waylith.com**.
